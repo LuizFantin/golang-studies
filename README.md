@@ -2,5 +2,6 @@
 
 - [x] Interfaces
     - [x] Primitive interfaces
-    - [X] Empty interfaces
-- [] Generics WIP
+    - [x] Empty interfaces
+- [x] Generics
+    - [x] Contraints

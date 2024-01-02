@@ -1,11 +1,11 @@
 package main
 
 import (
-	"golang-studies/src/interfaces"
-	"golang-studies/src/interfacesVazias"
+	"golang-studies/src/generics"
 )
 
 func main() {
-	interfacesVazias.Test()
-	interfaces.Test()
+	// interfacesVazias.Test()
+	// interfaces.Test()
+	generics.Test()
 }
