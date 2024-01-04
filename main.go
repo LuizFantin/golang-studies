@@ -1,7 +1,7 @@
 package main
 
 import (
-	thirdpartypackages "golang-studies/src/thirdPartyPackages"
+	goroutines "golang-studies/src/goRoutines"
 )
 
 func main() {
@@ -9,5 +9,6 @@ func main() {
 	// interfaces.Test()
 	// generics.Test()
 	// panicDeferRecover.Test()
-	thirdpartypackages.Test()
+	// thirdpartypackages.Test()
+	goroutines.Test()
 }
