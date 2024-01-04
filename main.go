@@ -1,12 +1,13 @@
 package main
 
 import (
-	"golang-studies/src/panicDeferRecover"
+	thirdpartypackages "golang-studies/src/thirdPartyPackages"
 )
 
 func main() {
 	// interfacesVazias.Test()
 	// interfaces.Test()
 	// generics.Test()
-	panicDeferRecover.Test()
+	// panicDeferRecover.Test()
+	thirdpartypackages.Test()
 }
