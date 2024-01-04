@@ -1,7 +1,7 @@
 package main
 
 import (
-	goroutines "golang-studies/src/goRoutines"
+	"golang-studies/src/channels"
 )
 
 func main() {
@@ -10,5 +10,6 @@ func main() {
 	// generics.Test()
 	// panicDeferRecover.Test()
 	// thirdpartypackages.Test()
-	goroutines.Test()
+	// goroutines.Test()
+	channels.Test()
 }
